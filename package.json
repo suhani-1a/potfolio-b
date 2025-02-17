@@ -10,7 +10,7 @@
   "version": "1.0.0",
   "main": "main.js",
   "scripts": {
-    "node": "node app.js"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
